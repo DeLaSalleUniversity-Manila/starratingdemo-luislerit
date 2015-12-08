@@ -1,4 +1,4 @@
-package com.cabatuan.starratingdemo;
+package com.luis.starratingdemo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.cabatuan.starratingdemo;
+package com.luis.starratingdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
